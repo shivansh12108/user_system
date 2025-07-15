@@ -53,7 +53,7 @@ project-folder/
 
 1️⃣ Start your **XAMPP server** (Apache and MySQL).  
 2️⃣ Open **phpMyAdmin** (`http://localhost/phpmyadmin`).  
-3️⃣ Create a **new database** (e.g., `user_auth_db`).  
+3️⃣ Create a **new database** (e.g., `user_system`).  
 4️⃣ Import `db.sql` to create necessary tables:
 
 - Click on your database > Import > Select `db.sql` > Go.
